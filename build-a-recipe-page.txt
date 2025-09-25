@@ -1,0 +1,37 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset ="UTF-8">
+    <title>Favorite Food-Momos Recipe</title>
+     </head>
+     <body>
+       <h1>MOMOS</h1>
+       <p>Momos is my favorite dish to eat.Its Delecious and making momos is simple that anyone who dont know cooking can do it.</p>
+       <p>First you have to make the dough but mixing 2 cups of maida ,a pinch of salt and add water accordingly to make the dough.Set this a side now for filling take 250g of bone less chicken half oninon and put it in the jar add some salt and masalas crush it for 3 seconds add some spring Onion</p><p>Now take the dough make it small round shape and fill it with fillings,make the shape you like now steam it for 15 minutes.</p>
+       <h2>Ingredients</h2>
+       <ul>
+         <li>Maida</li>
+         <li>Chicken</li>
+         <li>Onion</li>
+         <li>Spring Onion</li>
+       </ul>
+      <h2>Instructions</h2> 
+      <ol>
+        <li>Mix maida with water to make smooth Dough and let it rest for 30 min</li>
+        <li>Prepare filling by mixing bone less chicken and onion and spring onion</li>
+        <li>Roll out the dough as small circles and add some fillings in it</li>
+        <li>Now steam it for 15-20 min</li>
+  <img src="https://greenbowl2soul.com/wp-content/uploads/2018/09/veg-momos_5.jpg" alt="A plate of delicious momos">   
+      </ol>
+       </body>
+  </html>
+
+
+
+
+
+
+** end of index.html **
+
